@@ -10,7 +10,7 @@ https://user-images.githubusercontent.com/1116555/147808516-57299f2f-2587-45d9-8
 
 A vulnerability exists for some IC204 instrument clusters that are found in Mercedes-Benz vehicles of ~2007-2013, which enables flashing of arbitrary, unsigned firmware.
 
-More details are available in this document.
+More details are [available in this document](https://raw.githubusercontent.com/jglim/UnsignedFlash/main/document_pub.pdf).
 
 
 ## Timeline:
